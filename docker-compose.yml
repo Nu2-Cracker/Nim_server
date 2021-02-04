@@ -1,0 +1,14 @@
+version: "2"
+services:
+  app:
+    image: nim_arclinux
+    container_name: nim_server_env
+    build: .
+    volumes:
+      - ./nim_server:/prj/nim_server
+    tty: true
+    ports:
+      - "88:5000"
+    stdin_open: true
+    privileged: true
+    command: /sbin/init
