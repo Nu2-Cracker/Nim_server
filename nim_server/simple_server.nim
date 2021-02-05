@@ -1,13 +1,10 @@
 import jester, asyncdispatch
 
-
 settings:
   staticDir = "static"
 
 routes:
   get "/":
-    resp "Hello World!"
-
-
-
+    resp "App"
 runForever()
+#nim server はバックエンド起動
