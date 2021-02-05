@@ -25,9 +25,6 @@ var data = {
 
 var options = {
   interaction: { hover: true },
-  manipulation: {
-    enabled: true,
-  },
 
 };
 
@@ -42,20 +39,8 @@ network.on("click", function (params) {
       window.open(url, '_blank');
     }
   }
-
-  document.getElementById("eventSpanHeading").innerText = "Click event:";
-  document.getElementById("eventSpanContent").innerText = JSON.stringify(
-    nodeData,
-    null,
-    4
-  );
-
-  console.log(
-    "click event, getNodeAt returns: " + this.getNodeAt(params.pointer.DOM)
-  );
-
 });
-//vis-network　クリック=>url先に移動
+//vis-network　クリック=>url先に移動 =>clear
 
 //画面に表示した後=>nodeのデザインの検討
 //vizque本体とまーじ
