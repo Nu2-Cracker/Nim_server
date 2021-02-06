@@ -1,0 +1,1090 @@
+INFO Jester is making jokes at http://0.0.0.0:5000
+Starting 1 threads
+INFO Jester is making jokes at http://0.0.0.0:5000
+Starting 1 threads
+INFO Jester is making jokes at http://0.0.0.0:5000
+Starting 1 threads
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["790a4afe672cba3a7ce85a1991f0b8bf"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   200 OK {"content-type": @["text/html"], "etag": @["0a252d5015c908a8144411f194056eac"]}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   200 OK {"content-type": @["text/html"], "etag": @["e66a5cf12525e2c5ac4002ea61f85734"]}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["1d7442ce92bd6f2b5449f98ea64765fc"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["96bf4dff155ef2c866f82ec37c3bc395"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["9957b65a61d2bdc49a9c5a41d1224769"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   200 OK {"content-type": @["application/json"], "etag": @["47c7da905fd62c3512c3cf8b410eaa9e"]}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["86692760ae13936c84483ead75bdbeee"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["e94c8b1026ab9074c789c7392358bdf0"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["05de5c7d3659ef46eed25103a0b00cd0"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["05de5c7d3659ef46eed25103a0b00cd0"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBDEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["6fc9b273004f814db19966bb261e5911"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["2c5e932f4a181d0726cdcf4a63534889"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   200 OK {"content-type": @["text/html"], "etag": @["5f456df4e9a79db5b8345a7f289f2980"]}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /prj/jsons/data/nodeData.json
+DEBUG   404 Not Found {"content-type": @["text/html;charset=utf-8"]}
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["bcfb306b35de12ee27396e9bb9c5473d"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["bca8edfeb4e49797c5a3d11e6f919df9"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["7fb6938c872ab7b9b80dac7e57fb621a"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["c7c94996c8a015beb8e9dc591df743d9"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["78ac83b016dd631391b4557cb63ffaf3"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+UG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["36adc69d4f2f64b1dee0790859ceb600"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["36adc69d4f2f64b1dee0790859ceb600"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["50e8e23db383a4156f93bcf74a96a610"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["5ceea41128a494d588dd9b075109df14"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["d697d0b9d28bc42ba15838abd1e00a2f"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["843f0f032d153a1838a111cdb5884ef2"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["289d446c6eeca1df17cdcb6efbd4c9b5"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["1a71616614b1f4d42d82a93e4ed146fa"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["2cb0ea69b4c178a4a5dcad052efe17c8"]}
+DEBUG   -> staticDEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["36d47272cc257ca5dbc92186429e2854"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["c0102d1200814773d9ece3c0d1a41008"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["4324554bb1f9f48c93df623fc69371bd"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["7b1595bbb3e290d38b8d9d5643799805"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["de0828551e642f6a418c749939730ab1"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["86140b0085171c8d9ad2e8bbece5e71f"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["5230f1fdf910e2452624c7d2681ae072"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["a2b1b4bbb397c800e2fe87d4c7f6ac58"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCAction/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["3367ede8f883d13d609f362fa6512ff1"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["43fe8c1e82020227d963d73ffe245a6c"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["7459186f3600a247ce9d9a507c3edbca"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["6b000fc7ba1a5d8aae8ab586c60a9615"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["df804c0131b7bf10322d06c48d95dc0f"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["c606ba67fcec11220e37e44601168479"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["2757923cf024f5abc18b5ef9c103c9a3"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["60fbca997085563ab90d9c080f551432"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeDaRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["84e5a936272c19dbe4e67c80d30e91a2"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["d330576444be5f2f0131619586dae57a"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["9c470964f7d552f807584a77cb7442c5"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["a819ad6bf95ac0c5ecc4d537a3e4dfb1"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["9e71108b2a001e7023d0993f9749a8ff"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["c49af3d71c342f89d5bf9e9343c57a03"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["b5684e914d9bb73dbeae925e3d2a120a"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["85e8349ce89d87823666b7f3ec82bf14"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/maiDEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["bb7f243a19fe865131527a5f1e973814"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /favicon.ico
+DEBUG   404 Not Found {"content-type": @["text/html;charset=utf-8"]}
+DEBUG GET /
+DEBUG   200 OK {"content-type": @["text/html;charset=utf-8"]}
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   200 OK {"content-type": @["text/html"], "etag": @["b03599df7d2cb19b7469c7edde5812a0"]}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["54697bf63b8defc1b95ba0e1a3b6379f"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["d292db82493bcb4af03c519af58b8b31"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["ee1011ee2034b1ad5b04f22e63abd7e5"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["7040bc2f84b66305ecad4f0ee7f566fa"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /js/main.js
+DEBUG   200 OK {"content-type": @["application/javascript"], "etag": @["2863203e4c99b12668c5b7e53b71a903"]}
+DEBUG   -> static/js/main.js
+DEBUG   TCActionRaw
+DEBUG GET /data/nodeData.json
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/data/nodeData.json
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActionRaw
+DEBUG GET /css/main.css
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/css/main.css
+DEBUG   TCActionRaw
+DEBUG GET /main.html
+DEBUG   304 Not Modified {:}
+DEBUG   -> static/main.html
+DEBUG   TCActi

@@ -1,3 +1,8 @@
+'use strict';
+
+
+
+
 // create an array with nodes
 var nodeData = [
   { id: 1, label: "google", url: "https://www.google.com/?hl=ja" },
@@ -18,6 +23,8 @@ var edges = new vis.DataSet([
 
 // create a network
 var container = document.getElementById("mynetwork");
+
+
 var data = {
   nodes: nodes,
   edges: edges,
@@ -33,7 +40,7 @@ var network = new vis.Network(container, data, options);
 network.on("click", function (params) {
   params.event = "[original event]";
 
-  for (i = 0; i < nodeData.length; i++) {
+  for (let i = 0; i < nodeData.length; i++) {
     if (nodeData[i]["id"] == this.getNodeAt(params.pointer.DOM)) {
       let url = nodeData[i]["url"];
       window.open(url, '_blank');
